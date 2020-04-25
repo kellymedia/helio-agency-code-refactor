@@ -28,7 +28,7 @@ THEN I find a concise, descriptive title
 
 ## Feedback
 * Ask me a question on [Stack Overflow](https://stackoverflow.com/users/13296428/kellydotmedia)
-* Follow [@kellymedia](https://twitter.com/kellydotmedia) and me us know what you think!
+* Follow [@kellygotmedia](https://twitter.com/kellydotmedia) and me us know what you think!
 
 ## License
 Licensed under the [MIT](LICENSE.txt) license.
