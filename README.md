@@ -1,2 +1,3 @@
-# Horiseon-agency-code-refactor
-01 HTML CSS Git: Code Refactor
+# Horiseon Agency Code Refactor
+##Project: 01 HTML CSS Git: Code Refactor
+
