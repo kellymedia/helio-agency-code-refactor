@@ -68,18 +68,6 @@ p { font-size: 16px;}
     background-position: center;
 }
 
-/* float image in section left */    
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-/* float image in section right */    
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 main {
     width: 75%;
     display: inline-block;
@@ -101,6 +89,23 @@ main img { max-height: 200px;}
 main h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* float image in section left */    
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* float image in section right */    
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* clear floats in header */
+main::after {
+    clear: both;
 }
 
 .benefits {
@@ -136,5 +141,3 @@ footer {
 }
 
 footer h2 { font-size: 20px;}
-
-.clearfix { overflow: auto;}
