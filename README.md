@@ -2,6 +2,8 @@
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 
 ## Description
+This project is an assignment that requires refactoring prexisting code for asimulated client. The brief is listed below in the project parameters. I introduced several accessibility features, replaced simple divs with semantic elements, and improved the readability of the css and html files. 
+
 ### Project 
 01 HTML CSS Git: Code Refactor
 
