@@ -103,7 +103,7 @@ main h2 {
     margin-left: 25px;
 }
 
-/* clear floats in header */
+/* clear floats in main */
 main::after {
     clear: both;
 }
