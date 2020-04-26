@@ -4,9 +4,7 @@
     margin: 0;
 }
 
-body {
-    background-color: #d9dcd6;
-}
+body { background-color: #d9dcd6;}
 
 header {
     padding: 20px;
@@ -15,15 +13,14 @@ header {
     position: relative;
 }
 
+/* clear floats in header */
 header::after{
     content: '';
     display: table;
     clear: both;
 }
 
-nav {
-    float: right;
-}
+nav { float: right;}
 
 nav ul {
     list-style-type: none;
@@ -32,9 +29,7 @@ nav ul {
     overflow: hidden;
 }
 
-nav li {
-    display: inline-block;
-}
+nav li { display: inline-block;}
 
 .navR {
     padding-top: 20px;
@@ -48,10 +43,9 @@ nav li a {
     text-align: center;
     text-decoration: none;
 }
-  
-nav li a:hover {
-    text-decoration: underline;
-}
+
+/* underline nav links on hover */
+nav li a:hover { text-decoration: underline;}
 
 header h1 {
     font-size: 48px;
@@ -59,15 +53,12 @@ header h1 {
     float: left;
 }
 
-h1 .seo {
-    color: #d9dcd6;
-}
+/* gives "seo" emphasis with different color */
+h1 .seo { color: #d9dcd6;}
 
+p { font-size: 16px;}
 
-p {
-    font-size: 16px;
-}
-
+/* main image below header */
 .hero {
     height: 800px;
     width: 100%;
@@ -77,11 +68,13 @@ p {
     background-position: center;
 }
 
+/* float image in section left */    
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* float image in section right */    
 .float-right {
     float: right;
     margin-left: 25px;
@@ -91,10 +84,10 @@ main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    
 }
 
 main div {
-    margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -102,18 +95,23 @@ main div {
     color: #fff;
 }
 
-main img {
-    max-height: 200px;
-}
+main img { max-height: 200px;}
 
 main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+.main-middle { 
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .benefits {
     margin-right: 20px;
-    padding: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
     clear: both;
     float: right;
     width: 20%;
@@ -123,9 +121,7 @@ main h2 {
     color: #ffffff;
 }
 
-.benefit-box {
-    margin-bottom: 32px;
-}
+.benefit-box { margin-bottom: 32px;}
 
 .benefits h3 {
     margin-bottom: 10px;
@@ -145,10 +141,6 @@ footer {
     text-align: center;
 }
 
-footer h2 {
-    font-size: 20px;
-}
+footer h2 { font-size: 20px;}
 
-.clearfix {
-    overflow: auto;
-}
+.clearfix { overflow: auto;}
