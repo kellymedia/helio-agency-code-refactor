@@ -12,7 +12,7 @@ Click here for a [demo](https://github.com/kellymedia/horiseon-agency-code-refac
 https://kellymedia.github.io/horiseon-agency-code-refactor/
 
 This image demonstrates the app functionality:
-
+`
 ![Demo Screenshot](./assets/images/horiseon-agency-code-refactor.png "application demo screenshot")
 
 ## Feedback
