@@ -1,38 +1,19 @@
 # Horiseon Agency Code Refactor
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![Twitter Follow](https://img.shields.io/twitter/follow/kellydotmedia?style=social)](https://twitter.com/kellydotmedia) [![GitHub followers](https://img.shields.io/github/followers/kellymedia.svg?style=social&label=Follow)](https://github.com/kellymedia)
 
 ## Description
 This project is an assignment that required refactoring prexisting code for a simulated client. The brief is listed below in the project parameters. I introduced several accessibility features, replaced simple divs with semantic elements, and improved the readability of the css and html files. 
 
-### Project 
-01 HTML CSS Git: Code Refactor
+## Demo
 
-### Parameters
-Brief of project supplied by instructor.
+Click here for a [demo](https://github.com/kellymedia/horiseon-agency-code-refactor) of this project.
 
-### User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+https://kellymedia.github.io/horiseon-agency-code-refactor/
 
-### Acceptence Criteria
-- [x] GIVEN a webpage meets accessibility standards
+This image demonstrates the app functionality:
 
-WHEN I view the source code
-- [x] THEN I find semantic HTML elements
-
-WHEN I view the structure of the HTML elements
-- [x] THEN I find that the elements follow a logical structure independent of styling and positioning
-
-WHEN I view the image elements
-- [x] THEN I find accessible alt attributes
-
-WHEN I view the heading attributes
-- [x] THEN they fall in sequential order
-
-WHEN I view the title element
-- [x] THEN I find a concise, descriptive title
-
+![Demo Screenshot](./assets/images/horiseon-agency-code-refactor.png "application demo screenshot")
 
 ## Feedback
 * Ask me a question on [Stack Overflow](https://stackoverflow.com/users/13296428/kellydotmedia)
